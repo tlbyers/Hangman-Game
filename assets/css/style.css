@@ -1,0 +1,34 @@
+body{
+  font-size: 20px;
+  font-family: 'Arial','Helvetica Neue','Helvetica','sans-serif';
+  line-height: 32px;
+	}
+
+.jumbotron{
+   background-color: #000080!important;
+   font-family:'Georgia';
+   color:#000080!important;
+}
+
+
+ h1 { 
+color:blue;
+background-color: red;
+font-size: 30px;
+font-family: 'Georgia';
+border-style: solid;
+border-color:blue;
+    
+    }
+
+ h3{
+
+ text-align: center;
+
+ }
+
+  p{
+text-align: center
+
+  }
+
